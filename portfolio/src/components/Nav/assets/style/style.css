@@ -1,0 +1,21 @@
+#sideBar li:hover {
+    color: grey;
+    text-decoration: none;
+ }
+
+#sideBar a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+#sideBar li:hover {
+    color: grey;
+    text-decoration: none;
+ }
+
+#sideBar a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
