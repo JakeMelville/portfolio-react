@@ -1,8 +1,9 @@
 import React from 'react'
+import './assets/style/style.css'
 
 function Main() {
     return (
-        <div id="welcome" className="col-9 w-100">
+        <div id="welcome" className="col-9">
             <div className="row w-100">
                 <h1 className="mt-5 pt-5 ml-5 pl-5 mb-3 col-12">Hi, I'm Jake.</h1>
                 <h1 className="ml-5 pl-5 mb-3 pb-3 col-12">Full-Stack Web-Developer</h1>
