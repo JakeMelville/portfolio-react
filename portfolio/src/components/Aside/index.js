@@ -1,5 +1,6 @@
 import React from 'react'
 import ProfPic from './images/profile.jpeg'
+import Nav from '../Nav'
 
 function Aside() {
     return (
@@ -8,12 +9,7 @@ function Aside() {
                 <img src={ProfPic} className="mt-3 col-8 rounded-circle center-block" alt=''/>
                 <h2 className="mt-3">Jake Melville</h2>
                 <p className="mb-3 pb-3">Full-Stack Web Developer</p>
-                <ul id="sideBar" className="col mb-5 mt-5">
-                    <li id="abtMe" className="mb-3">About Me</li>
-                    <li id="myApps" className="mb-3"><a href="apps.html">My Applications</a></li>
-                    <li id="myResume" className="mb-3"><a href='./assets/images/JakeMelville_resume.pdf' target='_blank'>Resume</a></li>
-                    <li id="meContact">Contact Me</li>
-                </ul>
+                <Nav />
                 <ul className="col-12 w-100">
                     <a href="https://github.com/JakeMelville" target="_blank">
                         <li className="mt-2 pt-2 col-2 fa fa-github"></li>
