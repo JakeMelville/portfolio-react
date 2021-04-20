@@ -6,7 +6,6 @@ import './assets/style/style.css'
 
 function Aside() {
     return (
-        <div id='body'>
             <div id="side" className="col-3" style={{
                 backgroundColor: 'maroon'
             }}>
@@ -18,7 +17,6 @@ function Aside() {
                 <Nav />
                 <Contact />
             </div>
-        </div>
 
     )
 }
