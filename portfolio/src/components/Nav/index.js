@@ -8,7 +8,7 @@ function Nav() {
             <li id="abtMe" className="mb-3">About Me</li>
             <li id="myApps" className="mb-3"><a href="/apps">My Applications</a></li>
             <li id="myResume" className="mb-3"><a href={Resume} target='_blank'>Resume</a></li>
-            <li id="meContact" className='mb-2'>Contact Me</li>
+            <li id="meContact" className='mb-4'>Contact Me</li>
         </ul>
     )
 }

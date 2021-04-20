@@ -1,5 +1,6 @@
 import React from 'react'
 import './assets/style/style.css'
+import Resume from './assets/images/JakeMelville_resume.pdf'
 
 function Main() {
     return (
@@ -8,11 +9,11 @@ function Main() {
                 <h1 className="mt-5 pt-5 ml-5 pl-5 mb-3 col-12">Hi, I'm Jake.</h1>
                 <h1 className="ml-5 pl-5 mb-3 pb-3 col-12">Full-Stack Web-Developer</h1>
                 <div className="ml-5 pl-5 text-center col-3"><button id="appBtn" className="btn btn-secondary"><a
-                    href="apps.html">My
+                    href="/apps">My
                         Apps</a></button>
                 </div>
                 <div className="mr-5 pr-5 text-center col-3"><button id="resumeBtn"
-                    className="btn btn-secondary"><a href='./assets/images/JakeMelville_resume.pdf' target='_blank'>Resume</a></button>
+                    className="btn btn-secondary"><a href={Resume} target='_blank'>Resume</a></button>
                 </div>
                 <div id="aboutMe" className="col-9 mt-4 pt-4 ml-4 pl-4">
                     <div className="row">
