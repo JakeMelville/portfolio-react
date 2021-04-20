@@ -13,9 +13,6 @@ function Apps() {
     return (
         <div>
             <h1 id="jumbo" className="jumbotron text-center">My Applications</h1>
-            <div className="col-12 text-center">
-                <button id="home" className="text-center btn btn-dark"><a href="/">Home</a></button>
-            </div>
             <div className="container">
                 <div className="row justify-content-around m-2 p-2">
                     <div className="card col-3 m-2">
