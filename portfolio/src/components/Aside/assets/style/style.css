@@ -1,0 +1,27 @@
+#body {
+    height: 100;
+    padding: 0;
+    margin: 0;
+}
+h2 {
+    color: white;
+}
+#title {
+    color: white
+}
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+li:hover {
+    color: grey;
+    text-decoration: none;
+ }
+
+ a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
