@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/JakeMelville/portfolio-react/static/css/main.4f93f6ad.chunk.css",
+    "main.js": "/JakeMelville/portfolio-react/static/js/main.440b03ed.chunk.js",
+    "main.js.map": "/JakeMelville/portfolio-react/static/js/main.440b03ed.chunk.js.map",
+    "runtime-main.js": "/JakeMelville/portfolio-react/static/js/runtime-main.fd027050.js",
+    "runtime-main.js.map": "/JakeMelville/portfolio-react/static/js/runtime-main.fd027050.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/JakeMelville/portfolio-react/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2005d331.chunk.js": "/JakeMelville/portfolio-react/static/js/2.2005d331.chunk.js",
+    "static/js/2.2005d331.chunk.js.map": "/JakeMelville/portfolio-react/static/js/2.2005d331.chunk.js.map",
+    "index.html": "/JakeMelville/portfolio-react/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/JakeMelville/portfolio-react/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.4f93f6ad.chunk.css.map": "/JakeMelville/portfolio-react/static/css/main.4f93f6ad.chunk.css.map",
+    "static/js/2.2005d331.chunk.js.LICENSE.txt": "/JakeMelville/portfolio-react/static/js/2.2005d331.chunk.js.LICENSE.txt",
+    "static/media/JakeMelville_resume.98ef3726.pdf": "/JakeMelville/portfolio-react/static/media/JakeMelville_resume.98ef3726.pdf",
+    "static/media/avengers.b4c00ca8.png": "/JakeMelville/portfolio-react/static/media/avengers.b4c00ca8.png",
+    "static/media/cov.aa223103.jpg": "/JakeMelville/portfolio-react/static/media/cov.aa223103.jpg",
+    "static/media/notes.6af515c3.png": "/JakeMelville/portfolio-react/static/media/notes.6af515c3.png",
+    "static/media/style.css": "/JakeMelville/portfolio-react/static/media/nyc4.78bc473b.jpg",
+    "static/media/profile.1fc1c58d.jpeg": "/JakeMelville/portfolio-react/static/media/profile.1fc1c58d.jpeg",
+    "static/media/scheduler.017e9dae.jpg": "/JakeMelville/portfolio-react/static/media/scheduler.017e9dae.jpg",
+    "static/media/tch blog.8b00fc3a.jpg": "/JakeMelville/portfolio-react/static/media/tch blog.8b00fc3a.jpg",
+    "static/media/weather.700bcba0.jpg": "/JakeMelville/portfolio-react/static/media/weather.700bcba0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd027050.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.2005d331.chunk.js",
+    "static/css/main.4f93f6ad.chunk.css",
+    "static/js/main.440b03ed.chunk.js"
+  ]
+}
