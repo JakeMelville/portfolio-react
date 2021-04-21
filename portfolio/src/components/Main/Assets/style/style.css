@@ -9,3 +9,23 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
  }
+
+ #aboutCard {
+     display: none;
+ }
+
+ #contactCard {
+     display: none;
+ }
+
+ #contactUl {
+     color: black;
+     font-weight: bold;
+ }
+
+ #contactUl a {
+     color: black
+ }
+ #exitBtn {
+     background-color: blue;
+ }

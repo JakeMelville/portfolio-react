@@ -3,7 +3,9 @@ import './assets/style/style.css'
 import Resume from './assets/images/JakeMelville_resume.pdf'
 
 function Main() {
+
     return (
+
         <div id="welcome" className="col-9">
             <div className="row w-100">
                 <h1 className="mt-5 pt-5 ml-5 pl-5 mb-3 col-12">Hi, I'm Jake.</h1>
@@ -13,12 +15,12 @@ function Main() {
                         Apps</a></button>
                 </div>
                 <div className="mr-5 pr-5 text-center col-3"><button id="resumeBtn"
-                    className="btn btn-secondary"><a href={Resume} target='_blank'>Resume</a></button>
+                    className="btn btn-secondary"><a href={Resume} target='_blank' rel="noreferrer">Resume</a></button>
                 </div>
                 <div id="aboutMe" className="col-9 mt-4 pt-4 ml-4 pl-4">
                     <div className="row">
                         <div className="col-12">
-                            <div id="aboutCard" className="card" hidden="true">
+                            <div id="aboutCard" className="card">
                                 <div className="card-body">
                                     <h5 className="card-title text-center">About Me</h5>
                                     <p className="card-text">My name is Jake Melville. I was born and raised in
@@ -31,7 +33,7 @@ function Main() {
                                             <strong className="text-left">Back-End Skills:</strong> MySql, MongoDB, API
                                         </p>
 
-                                    <a href="index.html" id="exitBtn" type="reset"
+                                    <a href="/" id="exitBtn" type="reset"
                                         className="btn btn-primary">Exit</a>
                                 </div>
                             </div>
@@ -39,18 +41,18 @@ function Main() {
                     </div>
                     <div className="row">
                         <div className="col-9">
-                            <div id="contactCard" className="card" hidden="true">
+                            <div id="contactCard" className="card">
                                 <div className="card-body">
                                     <h5 className="card-title text-center">Contact Me</h5>
                                     <ul id="contactUl" className="card-text">
                                         <li>GitHub: <a href="https://github.com/JakeMelville"
-                                            target="_blank">https://github.com/JakeMelville</a></li>
+                                            target="_blank" rel="noreferrer">https://github.com/JakeMelville</a></li>
                                         <li>Email: <a href="jake.melville15@gmail.com"
-                                            target="_blank">jake.melville15@gmail.com</a></li>
+                                            target="_blank" rel="noreferrer">jake.melville15@gmail.com</a></li>
                                         <li>Twitter: <a href="https://twitter.com/jakemelville6"
-                                            target="_blank">https://twitter.com/jakemelville6</a></li>
+                                            target="_blank" rel="noreferrer">https://twitter.com/jakemelville6</a></li>
                                     </ul>
-                                    <a href="index.html" id="exitBtn" type="reset"
+                                    <a href="/" id="exitBtn" type="reset"
                                         className="btn btn-primary">Exit</a>
                                 </div>
                             </div>

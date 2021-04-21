@@ -22,7 +22,7 @@ function Apps() {
                             <p className="card-text">Covid-19 Relief is a one stop shop for all information covid related. On the
                             sight you will see both a test center locator and a vaccine finder. Allows a user to sign in and
                         save the test location that they visited. </p>
-                            <button className="btn btn-primary"><a href="https://covid-19-relief.herokuapp.com/" target='_blank'>See Project</a></button>
+                            <button className="btn btn-primary"><a href="https://covid-19-relief.herokuapp.com/" target='_blank' rel="noreferrer">See Project</a></button>
                         </div>
                     </div>
                     <div className="card col-3 m-2">
@@ -31,7 +31,7 @@ function Apps() {
                             <h5 className="card-title">Avengers Interactive Fan Page</h5>
                             <p className="card-text">This application is designed for the Avengers fan. Has information about all
                         characters, live twitter feeds, and a quiz to test the user's knowledge!</p>
-                            <button className="btn btn-primary"><a href="https://jakemelville.github.io/avengers/" target='_blank'>See Project</a></button>
+                            <button className="btn btn-primary"><a href="https://jakemelville.github.io/avengers/" target='_blank' rel="noreferrer">See Project</a></button>
                         </div>
                     </div>
                     <div className="card col-3 m-2" >
@@ -40,7 +40,7 @@ function Apps() {
                             <h5 className="card-title">Tech Blog</h5>
                             <p className="card-text">Tech Blog was designed for the user to be able to comment and post. The user
                         must sign in to use the application. Each post will be tagged with the user who wrote it. </p>
-                            <button className="btn btn-primary"><a href="https://jakemelville.github.io/tech-blog/" target='_blank'>See Project</a></button>
+                            <button className="btn btn-primary"><a href="https://jakemelville.github.io/tech-blog/" target='_blank' rel="noreferrer">See Project</a></button>
                             
                         </div>
                     </div>
@@ -50,7 +50,7 @@ function Apps() {
                             <h5 className="card-title">Note-Taker</h5>
                             <p className="card-text">This application was designed for the user to save/delete notes in a quick and
                         efficient manor.</p>
-                            <button className="btn btn-primary"><a href="https://jm-note-taker-1.herokuapp.com/" target='_blank'>See Project</a></button>
+                            <button className="btn btn-primary"><a href="https://jm-note-taker-1.herokuapp.com/" target='_blank' rel="noreferrer">See Project</a></button>
                         </div>
                     </div>
                     <div className="card col-3 m-2">
@@ -58,7 +58,7 @@ function Apps() {
                         <div className="card-body">
                             <h5 className="card-title">Weather Dashboard</h5>
                             <p className="card-text">Simple weather application that will give the user the current conditions, and a 5-day forcast.</p>
-                            <button className="btn btn-primary"><a href="https://jakemelville.github.io/weather-dashbord/" target='_blank'>See Project</a></button>
+                            <button className="btn btn-primary"><a href="https://jakemelville.github.io/weather-dashbord/" target='_blank' rel="noreferrer">See Project</a></button>
                         </div>
                     </div>
                     <div className="card col-3 m-2">
@@ -66,7 +66,7 @@ function Apps() {
                         <div className="card-body">
                             <h5 className="card-title">Work-Day Scheduler</h5>
                             <p className="card-text">Designed to work as a daily calandar. Each time slot will change colors based on what time of the day it is. </p>
-                            <button className="btn btn-primary"><a href="https://jakemelville.github.io/work-day-scheduler/" target='_blank'>See Project</a></button>
+                            <button className="btn btn-primary"><a href="https://jakemelville.github.io/work-day-scheduler/" target='_blank' rel="noreferrer">See Project</a></button>
                         </div>
                     </div>
                 </div>
