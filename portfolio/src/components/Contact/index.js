@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faGithub, faTwitter, faFacebook, faYahoo } from '@fortawesome/free-brands-svg-icons'
+import { faGithub, faTwitter, faLinkedin, faYahoo } from '@fortawesome/free-brands-svg-icons'
 import './assets/style/style.css'
 
 function Contact() {
@@ -15,8 +15,8 @@ function Contact() {
             <a href="https://twitter.com/jakemelville6" target="_blank" rel="noreferrer">
                 <li className="mt-2 pt-1 col-2"><FontAwesomeIcon icon={faTwitter} /></li>
             </a>
-            <a href="https://facebook.com" target="_blank" rel="noreferrer">
-                <li className="mt-2 pt-1 pb-5 col-2"><FontAwesomeIcon icon={faFacebook} /></li>
+            <a href="https://www.linkedin.com/in/jake-melville/" target="_blank" rel="noreferrer">
+                <li className="mt-2 pt-1 pb-5 col-2"><FontAwesomeIcon icon={faLinkedin} /></li>
             </a>
 
         </ul>
